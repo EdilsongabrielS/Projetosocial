@@ -2,8 +2,7 @@
 
 
 *{
-    width: 0px;
-    height: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -37,3 +36,28 @@ iframe#tela{
     width: 268px;
     height: 473px;
 }
+ section#Redes img{
+    width: 50px;
+    margin: 10px;
+    border: 5px white;
+    border-radius: 50%;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.541);
+    
+ }
+
+ section#Redes img:hover{
+    left: 10%;
+    top: 10%;
+    translate: -10% -10%;
+    box-shadow: 3px 3px 5px rgba(255, 255, 255, 0.479);
+  
+
+ }
+
+
+
+ #Redes{
+    text-align: right;
+ }
+
+ 
