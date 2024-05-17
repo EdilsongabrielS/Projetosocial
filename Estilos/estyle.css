@@ -33,15 +33,15 @@ iframe#tela{
     left: 50%;
     top: 50%;
     translate: -50% -50%;
-    width: 268px;
-    height: 473px;
+    width: 269px;
+    height: 476px;
 }
  section#Redes img{
     width: 50px;
     margin: 10px;
     border: 5px white;
     border-radius: 50%;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.541);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.637);
     
  }
 
@@ -49,8 +49,9 @@ iframe#tela{
     left: 10%;
     top: 10%;
     translate: -10% -10%;
-    box-shadow: 3px 3px 5px rgba(255, 255, 255, 0.479);
-  
+    border: 1px solid rgba(255, 255, 255, 0.527);
+    box-shadow: 6px 6px 9px rgba(0, 0, 0, 0.637);
+    transition: 0.3s;
 
  }
 
