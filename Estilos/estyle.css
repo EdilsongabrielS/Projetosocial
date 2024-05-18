@@ -49,14 +49,12 @@ iframe#tela{
     left: 10%;
     top: 10%;
     translate: -10% -10%;
-    border: 1px solid rgba(255, 255, 255, 0.527);
+    border: 3px solid rgba(255, 255, 255, 0.527);
     box-shadow: 6px 6px 9px rgba(0, 0, 0, 0.637);
     transition: 0.3s;
 
  }
-
-
-
+ 
  #Redes{
     text-align: right;
  }
